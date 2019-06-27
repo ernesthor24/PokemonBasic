@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PokemonBasic</string>
+    <string name="pokedex_title">Pokedex</string>
+    <string name="pokemon_details">Id Number: \n
+    Name: \n
+    Type 1: \n
+    Type 2: \n
+    Height: \n
+    Weight: \n
+    </string>
+    <string name="poke_search">Poke Search</string>
+    <string name="enter_pokemon_name">Enter Pokemon Name</string>
+    <string name="stats_text">Stats</string>
+    <string name="skill_text">Skills</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_default_female">Back Default Female</string>
+    <string name="front_default_female">Front Default Female</string>
+    <string name="back_default_male">Back Default Male</string>
+    <string name="front_default_male">Front Default Male</string>
+</resources>

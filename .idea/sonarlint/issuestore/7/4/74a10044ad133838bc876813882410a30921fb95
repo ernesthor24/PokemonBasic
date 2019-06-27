@@ -1,0 +1,12 @@
+
+Isquid:S1068$"-Remove this unused "pokeSkill" private field.(³©–¿ÿÿÿÿÿ
+isquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(º¨­÷8—ëµ½¸-
+isquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(Ž”ÎÜ8—ëµ½¸-
+osquid:CommentedOutCodeLineÞ"<This block of commented-out lines of code should be removed.(î››õÿÿÿÿÿ8 ÇÆ”¹-
+jsquid:S1301…"KReplace this "switch" statement by "if" statements to increase readability.(œ¡¹8—ëµ½¸-
+Csquid:S1068#",Remove this unused "pokeStat" private field.(êþÍ
+lsquid:S1450"URemove the "button" field and declare it as a local variable in the relevant methods.(ÈòÉ¹
+Rsquid:S1068."6Remove this unused "locationEncounters" private field.(“‹éÙýÿÿÿÿ
+usquid:S3776G"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(å¤žÔøÿÿÿÿ8—ëµ½¸-
+tsquid:UselessImportCheck"IRemove this unused import 'com.example.pokemonbasic.pojo.ConditionValue'.(­°ò8°Ì»ì¸-
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(þÒµúøÿÿÿÿ

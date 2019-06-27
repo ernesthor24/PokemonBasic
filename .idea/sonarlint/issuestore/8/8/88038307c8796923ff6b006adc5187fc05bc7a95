@@ -1,0 +1,6 @@
+
+isquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Œîù8°¼½¸-
+9squid:S1643'"Use a StringBuilder instead.(¹ô‡!8ÿø½¹-
+tsquid:S1450"XRemove the "pokeSkill" field and declare it as a local variable in the relevant methods.(³©–¿ÿÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ÜÛÌ
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÞÒþÖ8÷¾¹-
